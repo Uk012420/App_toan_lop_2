@@ -1,0 +1,37 @@
+[
+    {
+        "id": "CT_1",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "NC_1",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Mỗi hộp có 5 chiếc bút. Hỏi 4 hộp như thế có tất cả bao nhiêu chiếc bút?",
+        "answer": "20",
+        "level": "Mức 1"
+    },
+    {
+        "id": "DL_1",
+        "type": "Đại lượng & Thời gian",
+        "question": "Một sợi dây dài 1m. Người ta cắt đi 35cm. Hỏi sợi dây còn lại dài bao nhiêu cm?",
+        "answer": "65",
+        "level": "Mức 2"
+    },
+    {
+        "id": "HH_1",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có độ dài ba cạnh lần lượt là 12cm, 15cm và 20cm.",
+        "answer": "47",
+        "level": "Mức 1"
+    },
+    {
+        "id": "TD_1",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hiện nay anh 10 tuổi, em 6 tuổi. Hỏi 3 năm nữa, tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "22",
+        "level": "Mức 3"
+    }
+]
