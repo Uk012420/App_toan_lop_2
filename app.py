@@ -36,7 +36,7 @@ st.sidebar.title("🌟 Góc Học Tập Của Con")
 mode = st.sidebar.radio("Hôm nay con muốn học gì?", ["📚 Ôn từng dạng toán", "⏱️ Thi thử (Có bấm giờ)"])
 
 # ==========================================
-# CHẾ ĐỘ 1: ÔN TẬP CÓ HƯỚNG DẪN GIẢI
+# CHẾ ĐỘ 1: ÔN TẬP
 # ==========================================
 if mode == "📚 Ôn từng dạng toán":
     st.title("📚 Chinh Phục Toán Lớp 2")
@@ -65,7 +65,6 @@ if mode == "📚 Ôn từng dạng toán":
                 q = filtered_questions[index]
                 st.write(f"**Câu {index + 1} / {total_questions}** | 🌟 **Điểm: {st.session_state.score}**")
                 
-                # --- TÍNH NĂNG BÓNG ĐÈN GỢI Ý (CHỈ DÀNH CHO CÂU MỨC 3) ---
                 if q["level"] == "Mức 3" and q.get("hint"):
                     with st.expander("💡 Bật mí nhỏ cho con (Bấm vào đây nếu con thấy khó)"):
                         st.info(q["hint"])
@@ -83,11 +82,8 @@ if mode == "📚 Ôn từng dạng toán":
                             st.session_state.answered = True
                     else:
                         st.error(f"❌ Tiếc quá. Đáp án đúng là: {q['answer']}.")
-                        
-                        # --- TÍNH NĂNG GIẢI THÍCH KHI LÀM SAI ---
                         if q.get("explain"):
                             st.info(f"📝 **Hướng dẫn giải cho con:**\n\n{q['explain']}")
-                            
                         st.session_state.answered = True
                         
                 if st.button("Sang câu tiếp theo ➡️"):
@@ -102,7 +98,7 @@ if mode == "📚 Ôn từng dạng toán":
                     st.rerun()
 
 # ==========================================
-# CHẾ ĐỘ 2: THI THỬ (GIỮ NGUYÊN)
+# CHẾ ĐỘ 2: THI THỬ (ĐÃ NÂNG CẤP CHI TIẾT LỜI GIẢI)
 # ==========================================
 elif mode == "⏱️ Thi thử (Có bấm giờ)":
     st.title("⏱️ Đề Thi Năng Lực (20 Phút)")
@@ -174,12 +170,33 @@ elif mode == "⏱️ Thi thử (Có bấm giờ)":
         if total_score >= 12:
             st.success("🏆 Tuyệt đỉnh! Con hoàn toàn tự tin thi Nguyễn Tất Thành rồi!")
             st.balloons()
-            st.snow()
         elif total_score >= 8:
-            st.warning("👍 Rất tốt! Nhưng con thử kiểm tra lại các câu sai để rút kinh nghiệm nhé.")
+            st.warning("👍 Rất tốt! Nhưng con hãy xem kỹ lại các câu sai ở bên dưới để rút kinh nghiệm nhé.")
         else:
-            st.info("💪 Khó quá phải không? Không sao, mình về phần Ôn Tập rèn luyện thêm rồi quay lại phục thù nhé!")
+            st.info("💪 Không sao cả, mình cùng xem lại bài giải bên dưới để lần sau làm tốt hơn nhé!")
         
         if st.button("🔄 Thi lại đề mới ngẫu nhiên"):
             st.session_state.exam_generated = False
             st.rerun()
+
+        # --- PHẦN MỚI: CHI TIẾT BÀI LÀM ---
+        st.markdown("---")
+        st.subheader("🔍 CHI TIẾT BÀI LÀM CỦA CON")
+        
+        for i, q in enumerate(st.session_state.exam_qs):
+            user_ans = st.session_state.user_answers[q['id']].strip()
+            correct_ans = q["answer"].strip()
+            is_correct = (user_ans.lower() == correct_ans.lower())
+            
+            # Khối hiển thị câu hỏi và đáp án
+            if is_correct:
+                st.success(f"**Câu {i+1}:** {q['question']}\n\n✅ **Chính xác!** Đáp án của con: **{user_ans}**")
+            else:
+                ans_display = user_ans if user_ans != "" else "(Con chưa làm)"
+                st.error(f"**Câu {i+1}:** {q['question']}\n\n❌ **Chưa đúng rồi.** Đáp án của con: {ans_display} 👉 **Đáp án chuẩn: {correct_ans}**")
+            
+            # Hiển thị lời giải thích cho CẢ câu đúng và câu sai
+            if q.get("explain"):
+                st.info(f"💡 **Hướng dẫn cách làm:** {q['explain']}")
+                
+            st.write("---")
