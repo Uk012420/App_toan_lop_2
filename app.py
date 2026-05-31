@@ -1,6 +1,8 @@
 import streamlit as st
 import json
 import random
+import time
+import streamlit.components.v1 as components
 
 # ==========================================
 # 1. CẤU HÌNH GIAO DIỆN & ẨN MENU
@@ -17,7 +19,7 @@ hide_st_style = """
 st.markdown(hide_st_style, unsafe_allow_html=True)
 
 # ==========================================
-# 2. DỮ LIỆU LÝ THUYẾT LỚP 2
+# 2. LÝ THUYẾT (GIỮ NGUYÊN)
 # ==========================================
 THEORY_DATA = {
     "Cộng Trừ phạm vi 1000": {
@@ -37,7 +39,7 @@ THEORY_DATA = {
     },
     "Hình học (Chu vi)": {
         "khai_niem": "Chu vi của một hình là độ dài đường bao quanh hình đó.",
-        "phuong_phap": "- Chu vi hình tam giác = Tổng độ dài 3 cạnh.\n- Chu vi hình tứ giác = Tổng độ dài 4 cạnh.\n(Nhớ kiểm tra xem các cạnh đã cùng đơn vị đo chưa nhé).",
+        "phuong_phap": "- Chu vi hình tam giác = Tổng độ dài 3 cạnh.\n- Chu vi tứ giác/chữ nhật = Tổng độ dài 4 cạnh.\n(Nhớ kiểm tra xem các cạnh đã cùng đơn vị đo chưa nhé).",
         "sai_lam": "Chỉ cộng 2 cạnh rồi dừng lại, hoặc quên ghi đơn vị ở đáp án."
     },
     "Toán Tư Duy (Nền tảng NTT)": {
@@ -48,23 +50,20 @@ THEORY_DATA = {
 }
 
 # ==========================================
-# 3. GIAO DIỆN HỌC TẬP CHÍNH
+# 3. TẢI DỮ LIỆU
 # ==========================================
 try:
     with open("data_toan_lop_2.json", "r", encoding="utf-8") as f:
         questions = json.load(f)
 except:
-    st.error("Lỗi tải dữ liệu. Nhớ đưa file data_toan_lop_2.json vào cùng thư mục nhé!")
+    st.error("Chưa có file dữ liệu. Bạn hãy chạy file tao_du_lieu_lop2.py trước nhé!")
     st.stop()
 
 list_types = list(set([q["type"] for q in questions]))
 
 # --- MENU BÊN TRÁI ---
 st.sidebar.title("🌟 Góc Học Tập Của Con")
-mode = st.sidebar.radio("Hôm nay con muốn học gì?", ["📚 Ôn từng dạng toán", "📝 Thi thử khám phá"])
-
-st.sidebar.markdown("---")
-st.sidebar.info("💡 **Mẹo nhỏ:** Đọc kỹ đề bài trước khi nhập đáp án con nhé!")
+mode = st.sidebar.radio("Hôm nay con muốn học gì?", ["📚 Ôn từng dạng toán", "⏱️ Thi thử (Có bấm giờ)"])
 
 # --- CHẾ ĐỘ 1: ÔN TẬP ---
 if mode == "📚 Ôn từng dạng toán":
@@ -81,10 +80,8 @@ if mode == "📚 Ôn từng dạng toán":
     total_questions = len(filtered_questions)
     
     tab_lt, tab_th = st.tabs(["📖 Xem Bí Kíp", "✍️ Bắt Đầu Làm Bài"])
-    
     with tab_lt:
         theory = THEORY_DATA.get(selected_type, {})
-        st.header(f"Bí kíp: {selected_type}")
         st.info(f"**📌 Cần nhớ:** {theory.get('khai_niem', '')}")
         st.success(f"**💡 Cách giải:**\n{theory.get('phuong_phap', '')}")
         st.warning(f"**⚠️ Cẩn thận nhầm lẫn:** {theory.get('sai_lam', '')}")
@@ -95,8 +92,6 @@ if mode == "📚 Ôn từng dạng toán":
             if index < total_questions:
                 q = filtered_questions[index]
                 st.write(f"**Câu {index + 1} / {total_questions}** | 🌟 **Điểm: {st.session_state.score}**")
-                st.progress((index + 1) / total_questions)
-                
                 with st.form(key=f"form_{q['id']}"):
                     st.info(f"**Đề bài:** {q['question']}")
                     user_ans = st.text_input("Ghi kết quả của con:")
@@ -105,12 +100,11 @@ if mode == "📚 Ôn từng dạng toán":
                 if btn_check:
                     if user_ans.strip().lower() == q["answer"].strip().lower():
                         st.success("🎉 Quá giỏi! Con đúng rồi!")
-                        st.balloons()
                         if not st.session_state.answered:
                             st.session_state.score += 1
                             st.session_state.answered = True
                     else:
-                        st.error(f"❌ Tiếc quá. Đáp án đúng là: {q['answer']}. Con thử lại ở câu sau nhé!")
+                        st.error(f"❌ Tiếc quá. Đáp án đúng là: {q['answer']}.")
                         st.session_state.answered = True
                         
                 if st.button("Sang câu tiếp theo ➡️"):
@@ -118,55 +112,100 @@ if mode == "📚 Ôn từng dạng toán":
                     st.session_state.answered = False
                     st.rerun()
             else:
-                st.success("🏆 HOÀN THÀNH XUẤT SẮC!")
-                st.write(f"🎯 Điểm của con: {st.session_state.score} / {total_questions}")
-                if st.button("🔄 Luyện tập lại từ đầu"):
+                st.success(f"🏆 HOÀN THÀNH! Điểm của con: {st.session_state.score} / {total_questions}")
+                if st.button("🔄 Luyện tập lại"):
                     st.session_state.current_index = 0
                     st.session_state.score = 0
-                    st.session_state.answered = False
                     st.rerun()
 
-# --- CHẾ ĐỘ 2: THI THỬ ---
-elif mode == "📝 Thi thử khám phá":
-    st.title("📝 Đề Thi Khám Phá Tư Duy (10 Câu)")
+# --- CHẾ ĐỘ 2: THI THỬ CÓ BẤM GIỜ ---
+elif mode == "⏱️ Thi thử (Có bấm giờ)":
+    st.title("⏱️ Đề Thi Năng Lực (20 Phút)")
     
+    # THUẬT TOÁN SINH ĐỀ CHUẨN 5 - 7 - 3
     if 'exam_generated' not in st.session_state or not st.session_state.exam_generated:
-        exam_qs = []
-        for t in list_types:
-            qs_of_type = [q for q in questions if q["type"] == t]
-            if len(qs_of_type) >= 2: exam_qs.extend(random.sample(qs_of_type, 2))
-            else: exam_qs.extend(qs_of_type)
-        random.shuffle(exam_qs)
-        st.session_state.exam_qs = exam_qs[:10]
+        q_m1 = [q for q in questions if q["level"] == "Mức 1"]
+        q_m2 = [q for q in questions if q["level"] == "Mức 2"]
+        q_m3 = [q for q in questions if q["level"] == "Mức 3"]
+        
+        # Bốc ngẫu nhiên
+        exam_qs = random.sample(q_m1, min(5, len(q_m1))) + \
+                  random.sample(q_m2, min(7, len(q_m2))) + \
+                  random.sample(q_m3, min(3, len(q_m3)))
+        
+        random.shuffle(exam_qs) # Trộn đều thứ tự câu hỏi
+        st.session_state.exam_qs = exam_qs
         st.session_state.exam_generated = True
         st.session_state.exam_submitted = False
+        st.session_state.start_time = time.time() # Lưu thời điểm bắt đầu
 
     if not st.session_state.exam_submitted:
+        st.warning("⚠️ Đề thi gồm 15 câu (Từ cơ bản đến Nâng cao). Con chú ý phân bổ thời gian nhé!")
+        
+        # CHÈN ĐỒNG HỒ ĐẾM NGƯỢC BẰNG JAVASCRIPT
+        timer_html = """
+        <div style="font-size: 24px; font-weight: bold; color: #ff4b4b; text-align: center; border: 2px solid #ff4b4b; padding: 10px; border-radius: 10px; background-color: #ffe6e6;">
+            ⏱️ THỜI GIAN: <span id="time">20:00</span>
+        </div>
+        <script>
+            var time_limit = 20 * 60; // 20 phút
+            var timer = setInterval(function() {
+                var minutes = parseInt(time_limit / 60, 10);
+                var seconds = parseInt(time_limit % 60, 10);
+                minutes = minutes < 10 ? "0" + minutes : minutes;
+                seconds = seconds < 10 ? "0" + seconds : seconds;
+                document.getElementById('time').textContent = minutes + ":" + seconds;
+                if (--time_limit < 0) {
+                    clearInterval(timer);
+                    document.getElementById('time').textContent = "HẾT GIỜ!";
+                    document.getElementById('time').style.color = "red";
+                }
+            }, 1000);
+        </script>
+        """
+        components.html(timer_html, height=70)
+
         with st.form("exam_form"):
             user_answers = {}
             for i, q in enumerate(st.session_state.exam_qs):
-                st.markdown(f"**Câu {i+1}:** {q['question']}")
+                st.markdown(f"**Câu {i+1} ({q['level']}):** {q['question']}")
                 user_answers[q['id']] = st.text_input(f"Đáp án:", key=f"exam_{q['id']}")
                 st.write("---")
             
             if st.form_submit_button("✅ NỘP BÀI"):
+                # Tính thời gian làm bài
+                time_taken = time.time() - st.session_state.start_time
+                if time_taken > (20 * 60) + 10: # Trễ quá 10 giây coi như hết giờ
+                    st.error("Con đã làm quá 20 phút rồi! Lần sau phải nhanh tay hơn nhé.")
                 st.session_state.user_answers = user_answers
+                st.session_state.time_taken = time_taken
                 st.session_state.exam_submitted = True
                 st.rerun()
     else:
         st.header("📊 KẾT QUẢ CUỘC THI")
+        
+        # Báo cáo thời gian
+        mins = int(st.session_state.time_taken // 60)
+        secs = int(st.session_state.time_taken % 60)
+        st.info(f"⏱️ Con hoàn thành bài trong: **{mins} phút {secs} giây**")
+
         total_score = 0
         for q in st.session_state.exam_qs:
             if st.session_state.user_answers[q['id']].strip().lower() == q["answer"].strip().lower():
                 total_score += 1
                 
         st.write(f"### 🌟 Số câu đúng: {total_score} / {len(st.session_state.exam_qs)}")
-        if total_score == len(st.session_state.exam_qs):
-            st.success("Tuyệt đỉnh! Con có tố chất học Toán vô cùng tuyệt vời!")
-            st.balloons()
-        else:
-            st.info("Cố gắng rèn luyện thêm con nhé, mỗi ngày tiến bộ một chút!")
         
-        if st.button("🔄 Thi lại đề khác"):
+        # Phân loại khen thưởng
+        if total_score >= 12:
+            st.success("🏆 Tuyệt đỉnh! Con hoàn toàn tự tin thi Nguyễn Tất Thành rồi!")
+            st.balloons()
+            st.snow()
+        elif total_score >= 8:
+            st.warning("👍 Rất tốt! Nhưng con thử kiểm tra lại các câu sai để rút kinh nghiệm nhé.")
+        else:
+            st.info("💪 Khó quá phải không? Không sao, mình về phần Ôn Tập rèn luyện thêm rồi quay lại phục thù nhé!")
+        
+        if st.button("🔄 Thi lại đề mới ngẫu nhiên"):
             st.session_state.exam_generated = False
             st.rerun()

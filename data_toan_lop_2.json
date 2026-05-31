@@ -1,37 +1,1122 @@
 [
     {
-        "id": "CT_1",
+        "id": "M1_1_0",
         "type": "Cộng Trừ phạm vi 1000",
         "question": "Tính: 345 + 128 = ?",
         "answer": "473",
         "level": "Mức 1"
     },
     {
-        "id": "NC_1",
-        "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp có 5 chiếc bút. Hỏi 4 hộp như thế có tất cả bao nhiêu chiếc bút?",
-        "answer": "20",
+        "id": "M1_2_0",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
         "level": "Mức 1"
     },
     {
-        "id": "DL_1",
+        "id": "M1_3_0",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_0",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_0",
         "type": "Đại lượng & Thời gian",
-        "question": "Một sợi dây dài 1m. Người ta cắt đi 35cm. Hỏi sợi dây còn lại dài bao nhiêu cm?",
-        "answer": "65",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_0",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_0",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_0",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
         "level": "Mức 2"
     },
     {
-        "id": "HH_1",
+        "id": "M2_2_0",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_0",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_0",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có độ dài ba cạnh lần lượt là 12cm, 15cm và 20cm.",
-        "answer": "47",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_0",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_0",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_0",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_0",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_0",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_1",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
         "level": "Mức 1"
     },
     {
-        "id": "TD_1",
+        "id": "M1_2_1",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_1",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_1",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_1",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_1",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_1",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 10 tuổi, em 6 tuổi. Hỏi 3 năm nữa, tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "22",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_1",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_1",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_1",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_1",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_1",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_1",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_1",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_1",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_1",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_2",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_2",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_2",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_2",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_2",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_2",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_2",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_2",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_2",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_2",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_2",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_2",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_2",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_2",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_2",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_2",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_3",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_3",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_3",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_3",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_3",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_3",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_3",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_3",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_3",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_3",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_3",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_3",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_3",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_3",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_3",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_3",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_4",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_4",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_4",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_4",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_4",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_4",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_4",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_4",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_4",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_4",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_4",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_4",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_4",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_4",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_4",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_4",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_5",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_5",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_5",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_5",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_5",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_5",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_5",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_5",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_5",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_5",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_5",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_5",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_5",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_5",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_5",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_5",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_6",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_6",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_6",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_6",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_6",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_6",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_6",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_6",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_6",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_6",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_6",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_6",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_6",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_6",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_6",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_6",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_7",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_7",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_7",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_7",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_7",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_7",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_7",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_7",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_7",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_7",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_7",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_7",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_7",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_7",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_7",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_7",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_8",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_8",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_8",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_8",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_8",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_8",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_8",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_8",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_8",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_8",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_8",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_8",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_8",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_8",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_8",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_8",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M1_1_9",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 345 + 128 = ?",
+        "answer": "473",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_2_9",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tính: 856 - 231 = ?",
+        "answer": "625",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_3_9",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 4 x 7 = ?",
+        "answer": "28",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_4_9",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Tính: 45 : 5 = ?",
+        "answer": "9",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_5_9",
+        "type": "Đại lượng & Thời gian",
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_6_9",
+        "type": "Hình học (Chu vi)",
+        "question": "Tính chu vi hình tam giác có 3 cạnh là 3cm, 4cm, 5cm.",
+        "answer": "12",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M1_7_9",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Viết đáp án: Thu Hai, Thu Ba,...)",
+        "answer": "Thu Hai",
+        "level": "Mức 1"
+    },
+    {
+        "id": "M2_1_9",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tìm x biết: x - 150 = 350. Vậy x = ?",
+        "answer": "500",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_2_9",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Một thanh gỗ dài 40cm, bác thợ mộc cưa thành 5 đoạn bằng nhau. Hỏi mỗi đoạn dài bao nhiêu cm?",
+        "answer": "8",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_3_9",
+        "type": "Đại lượng & Thời gian",
+        "question": "Cuộn dây xanh dài 1m 5cm, cuộn dây đỏ dài 120cm. Hỏi cuộn đỏ dài hơn cuộn xanh bao nhiêu cm?",
+        "answer": "15",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_4_9",
+        "type": "Hình học (Chu vi)",
+        "question": "Một hình chữ nhật có chiều dài 10cm, chiều rộng 5cm. Tính chu vi hình đó.",
+        "answer": "30",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M2_5_9",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Số chẵn lớn nhất có 2 chữ số trừ đi số lẻ bé nhất có 2 chữ số bằng bao nhiêu?",
+        "answer": "87",
+        "level": "Mức 2"
+    },
+    {
+        "id": "M3_1_9",
+        "type": "Cộng Trừ phạm vi 1000",
+        "question": "Tổng của số bé nhất có 3 chữ số khác nhau và số lớn nhất có 2 chữ số khác nhau là bao nhiêu?",
+        "answer": "200",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_2_9",
+        "type": "Toán Tư Duy (Nền tảng NTT)",
+        "question": "Năm nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "answer": "29",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_3_9",
+        "type": "Bảng Nhân Chia (2,3,4,5)",
+        "question": "Có 24 học sinh xếp thành các hàng, mỗi hàng 4 bạn. Nếu xếp lại mỗi hàng 3 bạn thì xếp được bao nhiêu hàng?",
+        "answer": "8",
+        "level": "Mức 3"
+    },
+    {
+        "id": "M3_4_9",
+        "type": "Đại lượng & Thời gian",
+        "question": "Thứ 4 tuần này là ngày 15. Hỏi thứ 4 tuần trước là ngày bao nhiêu?",
+        "answer": "8",
         "level": "Mức 3"
     }
 ]
