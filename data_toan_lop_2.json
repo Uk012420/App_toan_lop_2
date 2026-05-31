@@ -2,1051 +2,1351 @@
     {
         "id": "Q_1",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 372 + 301 = ?",
-        "answer": "673",
-        "level": "Mức 1"
+        "question": "Tính: 236 + 237 = ?",
+        "answer": "473",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 236 + 237 = 473.",
+        "hint": ""
     },
     {
         "id": "Q_2",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 238 + 245 = ?",
-        "answer": "483",
-        "level": "Mức 1"
+        "question": "Tính: 114 + 222 = ?",
+        "answer": "336",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 114 + 222 = 336.",
+        "hint": ""
     },
     {
         "id": "Q_3",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 274 + 227 = ?",
-        "answer": "501",
-        "level": "Mức 1"
+        "question": "Tính: 122 + 206 = ?",
+        "answer": "328",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 122 + 206 = 328.",
+        "hint": ""
     },
     {
         "id": "Q_4",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 127 + 267 = ?",
-        "answer": "394",
-        "level": "Mức 1"
+        "question": "Tính: 332 + 183 = ?",
+        "answer": "515",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 332 + 183 = 515.",
+        "hint": ""
     },
     {
         "id": "Q_5",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 398 + 216 = ?",
-        "answer": "614",
-        "level": "Mức 1"
+        "question": "Tính: 367 + 186 = ?",
+        "answer": "553",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 367 + 186 = 553.",
+        "hint": ""
     },
     {
         "id": "Q_6",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 355 + 139 = ?",
-        "answer": "494",
-        "level": "Mức 1"
+        "question": "Tính: 206 + 360 = ?",
+        "answer": "566",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 206 + 360 = 566.",
+        "hint": ""
     },
     {
         "id": "Q_7",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 130 + 162 = ?",
-        "answer": "292",
-        "level": "Mức 1"
+        "question": "Tính: 175 + 118 = ?",
+        "answer": "293",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 175 + 118 = 293.",
+        "hint": ""
     },
     {
         "id": "Q_8",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 188 + 122 = ?",
-        "answer": "310",
-        "level": "Mức 1"
+        "question": "Tính: 267 + 354 = ?",
+        "answer": "621",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 267 + 354 = 621.",
+        "hint": ""
     },
     {
         "id": "Q_9",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 138 + 272 = ?",
-        "answer": "410",
-        "level": "Mức 1"
+        "question": "Tính: 228 + 148 = ?",
+        "answer": "376",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 228 + 148 = 376.",
+        "hint": ""
     },
     {
         "id": "Q_10",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 289 + 276 = ?",
-        "answer": "565",
-        "level": "Mức 1"
+        "question": "Tính: 281 + 290 = ?",
+        "answer": "571",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 281 + 290 = 571.",
+        "hint": ""
     },
     {
         "id": "Q_11",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 260 + 238 = ?",
-        "answer": "498",
-        "level": "Mức 1"
+        "question": "Tính: 329 + 388 = ?",
+        "answer": "717",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 329 + 388 = 717.",
+        "hint": ""
     },
     {
         "id": "Q_12",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 286 + 322 = ?",
-        "answer": "608",
-        "level": "Mức 1"
+        "question": "Tính: 389 + 129 = ?",
+        "answer": "518",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 389 + 129 = 518.",
+        "hint": ""
     },
     {
         "id": "Q_13",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 141 + 200 = ?",
-        "answer": "341",
-        "level": "Mức 1"
+        "question": "Tính: 150 + 138 = ?",
+        "answer": "288",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 150 + 138 = 288.",
+        "hint": ""
     },
     {
         "id": "Q_14",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 288 + 174 = ?",
-        "answer": "462",
-        "level": "Mức 1"
+        "question": "Tính: 264 + 309 = ?",
+        "answer": "573",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 264 + 309 = 573.",
+        "hint": ""
     },
     {
         "id": "Q_15",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tính: 266 + 261 = ?",
-        "answer": "527",
-        "level": "Mức 1"
+        "question": "Tính: 209 + 331 = ?",
+        "answer": "540",
+        "level": "Mức 1",
+        "explain": "Con nhớ đặt tính thẳng cột rồi cộng từ phải sang trái nhé. 209 + 331 = 540.",
+        "hint": ""
     },
     {
         "id": "Q_16",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 153 = 65. Vậy x = ?",
-        "answer": "218",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 279 = 90. Vậy x = ?",
+        "answer": "369",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (90) cộng với số trừ (279). x = 90 + 279 = 369.",
+        "hint": ""
     },
     {
         "id": "Q_17",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 182 = 76. Vậy x = ?",
-        "answer": "258",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 215 = 74. Vậy x = ?",
+        "answer": "289",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (74) cộng với số trừ (215). x = 74 + 215 = 289.",
+        "hint": ""
     },
     {
         "id": "Q_18",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 175 = 53. Vậy x = ?",
-        "answer": "228",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 268 = 51. Vậy x = ?",
+        "answer": "319",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (51) cộng với số trừ (268). x = 51 + 268 = 319.",
+        "hint": ""
     },
     {
         "id": "Q_19",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 205 = 91. Vậy x = ?",
-        "answer": "296",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 184 = 85. Vậy x = ?",
+        "answer": "269",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (85) cộng với số trừ (184). x = 85 + 184 = 269.",
+        "hint": ""
     },
     {
         "id": "Q_20",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 238 = 61. Vậy x = ?",
-        "answer": "299",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 290 = 59. Vậy x = ?",
+        "answer": "349",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (59) cộng với số trừ (290). x = 59 + 290 = 349.",
+        "hint": ""
     },
     {
         "id": "Q_21",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 228 = 91. Vậy x = ?",
-        "answer": "319",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 290 = 98. Vậy x = ?",
+        "answer": "388",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (98) cộng với số trừ (290). x = 98 + 290 = 388.",
+        "hint": ""
     },
     {
         "id": "Q_22",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 211 = 60. Vậy x = ?",
-        "answer": "271",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 230 = 80. Vậy x = ?",
+        "answer": "310",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (80) cộng với số trừ (230). x = 80 + 230 = 310.",
+        "hint": ""
     },
     {
         "id": "Q_23",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 243 = 80. Vậy x = ?",
-        "answer": "323",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 223 = 82. Vậy x = ?",
+        "answer": "305",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (82) cộng với số trừ (223). x = 82 + 223 = 305.",
+        "hint": ""
     },
     {
         "id": "Q_24",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 247 = 58. Vậy x = ?",
-        "answer": "305",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 219 = 96. Vậy x = ?",
+        "answer": "315",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (96) cộng với số trừ (219). x = 96 + 219 = 315.",
+        "hint": ""
     },
     {
         "id": "Q_25",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tìm x biết: x - 160 = 95. Vậy x = ?",
-        "answer": "255",
-        "level": "Mức 2"
+        "question": "Tìm x biết: x - 200 = 56. Vậy x = ?",
+        "answer": "256",
+        "level": "Mức 2",
+        "explain": "Muốn tìm số bị trừ (x), ta lấy hiệu (56) cộng với số trừ (200). x = 56 + 200 = 256.",
+        "hint": ""
     },
     {
         "id": "Q_26",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tổng của số bé nhất có 3 chữ số (100) và số lớn nhất có 2 chữ số (99) rồi trừ đi 26 là bao nhiêu?",
-        "answer": "173",
-        "level": "Mức 3"
+        "question": "Tổng của số bé nhất có 3 chữ số và số lớn nhất có 2 chữ số rồi trừ đi 30 là bao nhiêu?",
+        "answer": "169",
+        "level": "Mức 3",
+        "explain": "Số bé nhất có 3 chữ số là 100. Số lớn nhất có 2 chữ số là 99. Ta có: 100 + 99 - 30 = 169.",
+        "hint": "Con hãy tìm xem 'số bé nhất có 3 chữ số' và 'số lớn nhất có 2 chữ số' là số mấy trước nhé!"
     },
     {
         "id": "Q_27",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tổng của số bé nhất có 3 chữ số (100) và số lớn nhất có 2 chữ số (99) rồi trừ đi 37 là bao nhiêu?",
-        "answer": "162",
-        "level": "Mức 3"
+        "question": "Tổng của số bé nhất có 3 chữ số và số lớn nhất có 2 chữ số rồi trừ đi 21 là bao nhiêu?",
+        "answer": "178",
+        "level": "Mức 3",
+        "explain": "Số bé nhất có 3 chữ số là 100. Số lớn nhất có 2 chữ số là 99. Ta có: 100 + 99 - 21 = 178.",
+        "hint": "Con hãy tìm xem 'số bé nhất có 3 chữ số' và 'số lớn nhất có 2 chữ số' là số mấy trước nhé!"
     },
     {
         "id": "Q_28",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tổng của số bé nhất có 3 chữ số (100) và số lớn nhất có 2 chữ số (99) rồi trừ đi 24 là bao nhiêu?",
-        "answer": "175",
-        "level": "Mức 3"
+        "question": "Tổng của số bé nhất có 3 chữ số và số lớn nhất có 2 chữ số rồi trừ đi 21 là bao nhiêu?",
+        "answer": "178",
+        "level": "Mức 3",
+        "explain": "Số bé nhất có 3 chữ số là 100. Số lớn nhất có 2 chữ số là 99. Ta có: 100 + 99 - 21 = 178.",
+        "hint": "Con hãy tìm xem 'số bé nhất có 3 chữ số' và 'số lớn nhất có 2 chữ số' là số mấy trước nhé!"
     },
     {
         "id": "Q_29",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tổng của số bé nhất có 3 chữ số (100) và số lớn nhất có 2 chữ số (99) rồi trừ đi 13 là bao nhiêu?",
-        "answer": "186",
-        "level": "Mức 3"
+        "question": "Tổng của số bé nhất có 3 chữ số và số lớn nhất có 2 chữ số rồi trừ đi 23 là bao nhiêu?",
+        "answer": "176",
+        "level": "Mức 3",
+        "explain": "Số bé nhất có 3 chữ số là 100. Số lớn nhất có 2 chữ số là 99. Ta có: 100 + 99 - 23 = 176.",
+        "hint": "Con hãy tìm xem 'số bé nhất có 3 chữ số' và 'số lớn nhất có 2 chữ số' là số mấy trước nhé!"
     },
     {
         "id": "Q_30",
         "type": "Cộng Trừ phạm vi 1000",
-        "question": "Tổng của số bé nhất có 3 chữ số (100) và số lớn nhất có 2 chữ số (99) rồi trừ đi 21 là bao nhiêu?",
-        "answer": "178",
-        "level": "Mức 3"
+        "question": "Tổng của số bé nhất có 3 chữ số và số lớn nhất có 2 chữ số rồi trừ đi 23 là bao nhiêu?",
+        "answer": "176",
+        "level": "Mức 3",
+        "explain": "Số bé nhất có 3 chữ số là 100. Số lớn nhất có 2 chữ số là 99. Ta có: 100 + 99 - 23 = 176.",
+        "hint": "Con hãy tìm xem 'số bé nhất có 3 chữ số' và 'số lớn nhất có 2 chữ số' là số mấy trước nhé!"
     },
     {
         "id": "Q_31",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 45 : 5 = ?",
-        "answer": "9",
-        "level": "Mức 1"
+        "question": "Tính: 4 x 6 = ?",
+        "answer": "24",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 4 nhé: 4 x 6 = 24.",
+        "hint": ""
     },
     {
         "id": "Q_32",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 28 : 4 = ?",
-        "answer": "7",
-        "level": "Mức 1"
+        "question": "Tính: 20 : 4 = ?",
+        "answer": "5",
+        "level": "Mức 1",
+        "explain": "Con nhẩm xem 4 nhân mấy bằng 20 nhé. 4 x 5 = 20 nên 20 : 4 = 5.",
+        "hint": ""
     },
     {
         "id": "Q_33",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 3 x 10 = ?",
-        "answer": "30",
-        "level": "Mức 1"
+        "question": "Tính: 3 x 8 = ?",
+        "answer": "24",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 3 nhé: 3 x 8 = 24.",
+        "hint": ""
     },
     {
         "id": "Q_34",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 40 : 4 = ?",
-        "answer": "10",
-        "level": "Mức 1"
+        "question": "Tính: 3 x 9 = ?",
+        "answer": "27",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 3 nhé: 3 x 9 = 27.",
+        "hint": ""
     },
     {
         "id": "Q_35",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 12 : 4 = ?",
-        "answer": "3",
-        "level": "Mức 1"
+        "question": "Tính: 5 x 7 = ?",
+        "answer": "35",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 5 nhé: 5 x 7 = 35.",
+        "hint": ""
     },
     {
         "id": "Q_36",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 5 x 6 = ?",
-        "answer": "30",
-        "level": "Mức 1"
+        "question": "Tính: 12 : 3 = ?",
+        "answer": "4",
+        "level": "Mức 1",
+        "explain": "Con nhẩm xem 3 nhân mấy bằng 12 nhé. 3 x 4 = 12 nên 12 : 3 = 4.",
+        "hint": ""
     },
     {
         "id": "Q_37",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 2 x 6 = ?",
-        "answer": "12",
-        "level": "Mức 1"
+        "question": "Tính: 30 : 3 = ?",
+        "answer": "10",
+        "level": "Mức 1",
+        "explain": "Con nhẩm xem 3 nhân mấy bằng 30 nhé. 3 x 10 = 30 nên 30 : 3 = 10.",
+        "hint": ""
     },
     {
         "id": "Q_38",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 2 x 3 = ?",
-        "answer": "6",
-        "level": "Mức 1"
+        "question": "Tính: 4 x 3 = ?",
+        "answer": "12",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 4 nhé: 4 x 3 = 12.",
+        "hint": ""
     },
     {
         "id": "Q_39",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 16 : 2 = ?",
-        "answer": "8",
-        "level": "Mức 1"
+        "question": "Tính: 5 x 7 = ?",
+        "answer": "35",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 5 nhé: 5 x 7 = 35.",
+        "hint": ""
     },
     {
         "id": "Q_40",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 24 : 3 = ?",
-        "answer": "8",
-        "level": "Mức 1"
+        "question": "Tính: 14 : 2 = ?",
+        "answer": "7",
+        "level": "Mức 1",
+        "explain": "Con nhẩm xem 2 nhân mấy bằng 14 nhé. 2 x 7 = 14 nên 14 : 2 = 7.",
+        "hint": ""
     },
     {
         "id": "Q_41",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 27 : 3 = ?",
-        "answer": "9",
-        "level": "Mức 1"
+        "question": "Tính: 2 x 5 = ?",
+        "answer": "10",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 2 nhé: 2 x 5 = 10.",
+        "hint": ""
     },
     {
         "id": "Q_42",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 12 : 2 = ?",
-        "answer": "6",
-        "level": "Mức 1"
+        "question": "Tính: 3 x 10 = ?",
+        "answer": "30",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 3 nhé: 3 x 10 = 30.",
+        "hint": ""
     },
     {
         "id": "Q_43",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 6 : 2 = ?",
-        "answer": "3",
-        "level": "Mức 1"
+        "question": "Tính: 18 : 2 = ?",
+        "answer": "9",
+        "level": "Mức 1",
+        "explain": "Con nhẩm xem 2 nhân mấy bằng 18 nhé. 2 x 9 = 18 nên 18 : 2 = 9.",
+        "hint": ""
     },
     {
         "id": "Q_44",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 5 x 6 = ?",
-        "answer": "30",
-        "level": "Mức 1"
+        "question": "Tính: 3 x 7 = ?",
+        "answer": "21",
+        "level": "Mức 1",
+        "explain": "Con nhẩm lại bảng nhân 3 nhé: 3 x 7 = 21.",
+        "hint": ""
     },
     {
         "id": "Q_45",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Tính: 2 x 9 = ?",
-        "answer": "18",
-        "level": "Mức 1"
+        "question": "Tính: 12 : 2 = ?",
+        "answer": "6",
+        "level": "Mức 1",
+        "explain": "Con nhẩm xem 2 nhân mấy bằng 12 nhé. 2 x 6 = 12 nên 12 : 2 = 6.",
+        "hint": ""
     },
     {
         "id": "Q_46",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 3 chiếc bánh. Hỏi 4 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "12",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 2 chiếc bánh. Hỏi 5 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "10",
+        "level": "Mức 2",
+        "explain": "Có 5 hộp, mỗi hộp 2 chiếc, con dùng phép nhân nhé: 2 x 5 = 10.",
+        "hint": ""
     },
     {
         "id": "Q_47",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 2 chiếc bánh. Hỏi 8 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "16",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 4 chiếc bánh. Hỏi 9 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "36",
+        "level": "Mức 2",
+        "explain": "Có 9 hộp, mỗi hộp 4 chiếc, con dùng phép nhân nhé: 4 x 9 = 36.",
+        "hint": ""
     },
     {
         "id": "Q_48",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 4 chiếc bánh. Hỏi 9 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "36",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 2 chiếc bánh. Hỏi 7 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "14",
+        "level": "Mức 2",
+        "explain": "Có 7 hộp, mỗi hộp 2 chiếc, con dùng phép nhân nhé: 2 x 7 = 14.",
+        "hint": ""
     },
     {
         "id": "Q_49",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 5 chiếc bánh. Hỏi 8 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "40",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 5 chiếc bánh. Hỏi 7 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "35",
+        "level": "Mức 2",
+        "explain": "Có 7 hộp, mỗi hộp 5 chiếc, con dùng phép nhân nhé: 5 x 7 = 35.",
+        "hint": ""
     },
     {
         "id": "Q_50",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 2 chiếc bánh. Hỏi 7 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "14",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 3 chiếc bánh. Hỏi 6 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "18",
+        "level": "Mức 2",
+        "explain": "Có 6 hộp, mỗi hộp 3 chiếc, con dùng phép nhân nhé: 3 x 6 = 18.",
+        "hint": ""
     },
     {
         "id": "Q_51",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 3 chiếc bánh. Hỏi 7 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "21",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 5 chiếc bánh. Hỏi 7 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "35",
+        "level": "Mức 2",
+        "explain": "Có 7 hộp, mỗi hộp 5 chiếc, con dùng phép nhân nhé: 5 x 7 = 35.",
+        "hint": ""
     },
     {
         "id": "Q_52",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 4 chiếc bánh. Hỏi 6 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "24",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 2 chiếc bánh. Hỏi 8 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "16",
+        "level": "Mức 2",
+        "explain": "Có 8 hộp, mỗi hộp 2 chiếc, con dùng phép nhân nhé: 2 x 8 = 16.",
+        "hint": ""
     },
     {
         "id": "Q_53",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 2 chiếc bánh. Hỏi 5 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "10",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 3 chiếc bánh. Hỏi 8 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "24",
+        "level": "Mức 2",
+        "explain": "Có 8 hộp, mỗi hộp 3 chiếc, con dùng phép nhân nhé: 3 x 8 = 24.",
+        "hint": ""
     },
     {
         "id": "Q_54",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 3 chiếc bánh. Hỏi 8 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "24",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 3 chiếc bánh. Hỏi 4 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "12",
+        "level": "Mức 2",
+        "explain": "Có 4 hộp, mỗi hộp 3 chiếc, con dùng phép nhân nhé: 3 x 4 = 12.",
+        "hint": ""
     },
     {
         "id": "Q_55",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Mỗi hộp bánh có 5 chiếc bánh. Hỏi 6 hộp bánh như thế có tất cả bao nhiêu chiếc?",
-        "answer": "30",
-        "level": "Mức 2"
+        "question": "Mỗi hộp có 4 chiếc bánh. Hỏi 9 hộp như thế có tất cả bao nhiêu chiếc?",
+        "answer": "36",
+        "level": "Mức 2",
+        "explain": "Có 9 hộp, mỗi hộp 4 chiếc, con dùng phép nhân nhé: 4 x 9 = 36.",
+        "hint": ""
     },
     {
         "id": "Q_56",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Cô giáo có 16 viên kẹo chia đều cho 4 bạn. Hỏi 2 bạn thì nhận được tổng cộng bao nhiêu viên kẹo?",
+        "question": "Có 12 viên kẹo chia đều cho 3 bạn. Hỏi 2 bạn thì nhận được bao nhiêu viên kẹo?",
         "answer": "8",
-        "level": "Mức 3"
+        "level": "Mức 3",
+        "explain": "Tính 1 bạn có: 12 : 3 = 4 viên. Sau đó tính 2 bạn có: 4 x 2 = 8 viên.",
+        "hint": "Bài này có 2 bước. Bước 1: Tìm số kẹo của 1 bạn. Bước 2: Tìm số kẹo của 2 bạn."
     },
     {
         "id": "Q_57",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Cô giáo có 40 viên kẹo chia đều cho 5 bạn. Hỏi 2 bạn thì nhận được tổng cộng bao nhiêu viên kẹo?",
-        "answer": "16",
-        "level": "Mức 3"
+        "question": "Có 18 viên kẹo chia đều cho 3 bạn. Hỏi 2 bạn thì nhận được bao nhiêu viên kẹo?",
+        "answer": "12",
+        "level": "Mức 3",
+        "explain": "Tính 1 bạn có: 18 : 3 = 6 viên. Sau đó tính 2 bạn có: 6 x 2 = 12 viên.",
+        "hint": "Bài này có 2 bước. Bước 1: Tìm số kẹo của 1 bạn. Bước 2: Tìm số kẹo của 2 bạn."
     },
     {
         "id": "Q_58",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Cô giáo có 16 viên kẹo chia đều cho 4 bạn. Hỏi 2 bạn thì nhận được tổng cộng bao nhiêu viên kẹo?",
-        "answer": "8",
-        "level": "Mức 3"
+        "question": "Có 30 viên kẹo chia đều cho 5 bạn. Hỏi 2 bạn thì nhận được bao nhiêu viên kẹo?",
+        "answer": "12",
+        "level": "Mức 3",
+        "explain": "Tính 1 bạn có: 30 : 5 = 6 viên. Sau đó tính 2 bạn có: 6 x 2 = 12 viên.",
+        "hint": "Bài này có 2 bước. Bước 1: Tìm số kẹo của 1 bạn. Bước 2: Tìm số kẹo của 2 bạn."
     },
     {
         "id": "Q_59",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Cô giáo có 20 viên kẹo chia đều cho 5 bạn. Hỏi 2 bạn thì nhận được tổng cộng bao nhiêu viên kẹo?",
+        "question": "Có 12 viên kẹo chia đều cho 3 bạn. Hỏi 2 bạn thì nhận được bao nhiêu viên kẹo?",
         "answer": "8",
-        "level": "Mức 3"
+        "level": "Mức 3",
+        "explain": "Tính 1 bạn có: 12 : 3 = 4 viên. Sau đó tính 2 bạn có: 4 x 2 = 8 viên.",
+        "hint": "Bài này có 2 bước. Bước 1: Tìm số kẹo của 1 bạn. Bước 2: Tìm số kẹo của 2 bạn."
     },
     {
         "id": "Q_60",
         "type": "Bảng Nhân Chia (2,3,4,5)",
-        "question": "Cô giáo có 16 viên kẹo chia đều cho 4 bạn. Hỏi 2 bạn thì nhận được tổng cộng bao nhiêu viên kẹo?",
-        "answer": "8",
-        "level": "Mức 3"
+        "question": "Có 18 viên kẹo chia đều cho 3 bạn. Hỏi 2 bạn thì nhận được bao nhiêu viên kẹo?",
+        "answer": "12",
+        "level": "Mức 3",
+        "explain": "Tính 1 bạn có: 18 : 3 = 6 viên. Sau đó tính 2 bạn có: 6 x 2 = 12 viên.",
+        "hint": "Bài này có 2 bước. Bước 1: Tìm số kẹo của 1 bạn. Bước 2: Tìm số kẹo của 2 bạn."
     },
     {
         "id": "Q_61",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 4 mét = ... xăng-ti-mét?",
-        "answer": "400",
-        "level": "Mức 1"
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 2 mét = 200 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_62",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 3 mét = ... xăng-ti-mét?",
-        "answer": "300",
-        "level": "Mức 1"
+        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
+        "answer": "200",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 2 mét = 200 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_63",
         "type": "Đại lượng & Thời gian",
         "question": "Đổi: 8 mét = ... xăng-ti-mét?",
         "answer": "800",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 8 mét = 800 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_64",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 6 mét = ... xăng-ti-mét?",
-        "answer": "600",
-        "level": "Mức 1"
+        "question": "Đổi: 9 mét = ... xăng-ti-mét?",
+        "answer": "900",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 9 mét = 900 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_65",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
-        "answer": "200",
-        "level": "Mức 1"
+        "question": "Đổi: 3 mét = ... xăng-ti-mét?",
+        "answer": "300",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 3 mét = 300 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_66",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 7 mét = ... xăng-ti-mét?",
-        "answer": "700",
-        "level": "Mức 1"
+        "question": "Đổi: 4 mét = ... xăng-ti-mét?",
+        "answer": "400",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 4 mét = 400 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_67",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
-        "answer": "200",
-        "level": "Mức 1"
+        "question": "Đổi: 4 mét = ... xăng-ti-mét?",
+        "answer": "400",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 4 mét = 400 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_68",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 4 mét = ... xăng-ti-mét?",
-        "answer": "400",
-        "level": "Mức 1"
+        "question": "Đổi: 5 mét = ... xăng-ti-mét?",
+        "answer": "500",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 5 mét = 500 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_69",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 6 mét = ... xăng-ti-mét?",
-        "answer": "600",
-        "level": "Mức 1"
+        "question": "Đổi: 8 mét = ... xăng-ti-mét?",
+        "answer": "800",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 8 mét = 800 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_70",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 5 mét = ... xăng-ti-mét?",
-        "answer": "500",
-        "level": "Mức 1"
+        "question": "Đổi: 6 mét = ... xăng-ti-mét?",
+        "answer": "600",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 6 mét = 600 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_71",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
-        "answer": "200",
-        "level": "Mức 1"
+        "question": "Đổi: 5 mét = ... xăng-ti-mét?",
+        "answer": "500",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 5 mét = 500 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_72",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 2 mét = ... xăng-ti-mét?",
-        "answer": "200",
-        "level": "Mức 1"
+        "question": "Đổi: 7 mét = ... xăng-ti-mét?",
+        "answer": "700",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 7 mét = 700 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_73",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 7 mét = ... xăng-ti-mét?",
-        "answer": "700",
-        "level": "Mức 1"
+        "question": "Đổi: 6 mét = ... xăng-ti-mét?",
+        "answer": "600",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 6 mét = 600 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_74",
         "type": "Đại lượng & Thời gian",
         "question": "Đổi: 9 mét = ... xăng-ti-mét?",
         "answer": "900",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 9 mét = 900 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_75",
         "type": "Đại lượng & Thời gian",
-        "question": "Đổi: 3 mét = ... xăng-ti-mét?",
-        "answer": "300",
-        "level": "Mức 1"
+        "question": "Đổi: 8 mét = ... xăng-ti-mét?",
+        "answer": "800",
+        "level": "Mức 1",
+        "explain": "1 mét = 100 xăng-ti-mét. Vậy 8 mét = 800 xăng-ti-mét.",
+        "hint": ""
     },
     {
         "id": "Q_76",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 22cm, cuộn dây đỏ dài 21cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "43",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 34cm, cuộn đỏ dài 22cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "56",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 34 + 22 = 56 cm.",
+        "hint": ""
     },
     {
         "id": "Q_77",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 33cm, cuộn dây đỏ dài 26cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "59",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 29cm, cuộn đỏ dài 28cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "57",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 29 + 28 = 57 cm.",
+        "hint": ""
     },
     {
         "id": "Q_78",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 17cm, cuộn dây đỏ dài 23cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "40",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 19cm, cuộn đỏ dài 29cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "48",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 19 + 29 = 48 cm.",
+        "hint": ""
     },
     {
         "id": "Q_79",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 36cm, cuộn dây đỏ dài 22cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "58",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 29cm, cuộn đỏ dài 27cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "56",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 29 + 27 = 56 cm.",
+        "hint": ""
     },
     {
         "id": "Q_80",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 37cm, cuộn dây đỏ dài 21cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "58",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 13cm, cuộn đỏ dài 20cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "33",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 13 + 20 = 33 cm.",
+        "hint": ""
     },
     {
         "id": "Q_81",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 22cm, cuộn dây đỏ dài 28cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "50",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 34cm, cuộn đỏ dài 30cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "64",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 34 + 30 = 64 cm.",
+        "hint": ""
     },
     {
         "id": "Q_82",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 37cm, cuộn dây đỏ dài 28cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "65",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 40cm, cuộn đỏ dài 24cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "64",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 40 + 24 = 64 cm.",
+        "hint": ""
     },
     {
         "id": "Q_83",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 19cm, cuộn dây đỏ dài 21cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "40",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 39cm, cuộn đỏ dài 19cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "58",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 39 + 19 = 58 cm.",
+        "hint": ""
     },
     {
         "id": "Q_84",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 31cm, cuộn dây đỏ dài 22cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "53",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 36cm, cuộn đỏ dài 23cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "59",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 36 + 23 = 59 cm.",
+        "hint": ""
     },
     {
         "id": "Q_85",
         "type": "Đại lượng & Thời gian",
-        "question": "Cuộn dây xanh dài 19cm, cuộn dây đỏ dài 26cm. Cả hai cuộn dài bao nhiêu cm?",
-        "answer": "45",
-        "level": "Mức 2"
+        "question": "Cuộn xanh dài 19cm, cuộn đỏ dài 27cm. Cả hai cuộn dài bao nhiêu cm?",
+        "answer": "46",
+        "level": "Mức 2",
+        "explain": "Con cộng chiều dài 2 cuộn lại nhé: 19 + 27 = 46 cm.",
+        "hint": ""
     },
     {
         "id": "Q_86",
         "type": "Đại lượng & Thời gian",
-        "question": "Một sợi dây dài 1m 10cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
-        "answer": "110",
-        "level": "Mức 3"
+        "question": "Sợi dây dài 3m 30cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
+        "answer": "330",
+        "level": "Mức 3",
+        "explain": "3m = 300cm. Cộng thêm 30cm nữa là 330cm.",
+        "hint": "Con nhớ đổi đơn vị mét (m) sang xăng-ti-mét (cm) trước khi cộng nhé!"
     },
     {
         "id": "Q_87",
         "type": "Đại lượng & Thời gian",
-        "question": "Một sợi dây dài 3m 30cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
+        "question": "Sợi dây dài 3m 30cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
         "answer": "330",
-        "level": "Mức 3"
+        "level": "Mức 3",
+        "explain": "3m = 300cm. Cộng thêm 30cm nữa là 330cm.",
+        "hint": "Con nhớ đổi đơn vị mét (m) sang xăng-ti-mét (cm) trước khi cộng nhé!"
     },
     {
         "id": "Q_88",
         "type": "Đại lượng & Thời gian",
-        "question": "Một sợi dây dài 2m 20cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
+        "question": "Sợi dây dài 2m 20cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
         "answer": "220",
-        "level": "Mức 3"
+        "level": "Mức 3",
+        "explain": "2m = 200cm. Cộng thêm 20cm nữa là 220cm.",
+        "hint": "Con nhớ đổi đơn vị mét (m) sang xăng-ti-mét (cm) trước khi cộng nhé!"
     },
     {
         "id": "Q_89",
         "type": "Đại lượng & Thời gian",
-        "question": "Một sợi dây dài 5m 50cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
+        "question": "Sợi dây dài 5m 50cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
         "answer": "550",
-        "level": "Mức 3"
+        "level": "Mức 3",
+        "explain": "5m = 500cm. Cộng thêm 50cm nữa là 550cm.",
+        "hint": "Con nhớ đổi đơn vị mét (m) sang xăng-ti-mét (cm) trước khi cộng nhé!"
     },
     {
         "id": "Q_90",
         "type": "Đại lượng & Thời gian",
-        "question": "Một sợi dây dài 1m 10cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
-        "answer": "110",
-        "level": "Mức 3"
+        "question": "Sợi dây dài 5m 50cm. Hỏi sợi dây đó dài tổng cộng bao nhiêu cm?",
+        "answer": "550",
+        "level": "Mức 3",
+        "explain": "5m = 500cm. Cộng thêm 50cm nữa là 550cm.",
+        "hint": "Con nhớ đổi đơn vị mét (m) sang xăng-ti-mét (cm) trước khi cộng nhé!"
     },
     {
         "id": "Q_91",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 28cm, 15cm, 30cm.",
-        "answer": "73",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 26cm, 15cm, 30cm.",
+        "answer": "71",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 26 + 15 + 30 = 71 cm.",
+        "hint": ""
     },
     {
         "id": "Q_92",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 25cm, 25cm, 22cm.",
-        "answer": "72",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 11cm, 20cm, 21cm.",
+        "answer": "52",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 11 + 20 + 21 = 52 cm.",
+        "hint": ""
     },
     {
         "id": "Q_93",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 18cm, 26cm, 30cm.",
-        "answer": "74",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 17cm, 11cm, 21cm.",
+        "answer": "49",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 17 + 11 + 21 = 49 cm.",
+        "hint": ""
     },
     {
         "id": "Q_94",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 17cm, 17cm, 26cm.",
-        "answer": "60",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 10cm, 22cm, 19cm.",
+        "answer": "51",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 10 + 22 + 19 = 51 cm.",
+        "hint": ""
     },
     {
         "id": "Q_95",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 18cm, 13cm, 29cm.",
-        "answer": "60",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 23cm, 16cm, 10cm.",
+        "answer": "49",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 23 + 16 + 10 = 49 cm.",
+        "hint": ""
     },
     {
         "id": "Q_96",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 18cm, 28cm, 11cm.",
-        "answer": "57",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 27cm, 27cm, 25cm.",
+        "answer": "79",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 27 + 27 + 25 = 79 cm.",
+        "hint": ""
     },
     {
         "id": "Q_97",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 19cm, 20cm, 23cm.",
-        "answer": "62",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 16cm, 30cm, 17cm.",
+        "answer": "63",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 16 + 30 + 17 = 63 cm.",
+        "hint": ""
     },
     {
         "id": "Q_98",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 15cm, 10cm, 24cm.",
-        "answer": "49",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 23cm, 24cm, 19cm.",
+        "answer": "66",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 23 + 24 + 19 = 66 cm.",
+        "hint": ""
     },
     {
         "id": "Q_99",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 22cm, 29cm, 12cm.",
-        "answer": "63",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 13cm, 22cm, 10cm.",
+        "answer": "45",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 13 + 22 + 10 = 45 cm.",
+        "hint": ""
     },
     {
         "id": "Q_100",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 25cm, 18cm, 18cm.",
-        "answer": "61",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 28cm, 27cm, 26cm.",
+        "answer": "81",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 28 + 27 + 26 = 81 cm.",
+        "hint": ""
     },
     {
         "id": "Q_101",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 26cm, 13cm, 17cm.",
+        "question": "Chu vi hình tam giác có 3 cạnh là 16cm, 13cm, 27cm.",
         "answer": "56",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 16 + 13 + 27 = 56 cm.",
+        "hint": ""
     },
     {
         "id": "Q_102",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 19cm, 28cm, 25cm.",
-        "answer": "72",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 26cm, 25cm, 15cm.",
+        "answer": "66",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 26 + 25 + 15 = 66 cm.",
+        "hint": ""
     },
     {
         "id": "Q_103",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 30cm, 24cm, 25cm.",
-        "answer": "79",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 14cm, 19cm, 15cm.",
+        "answer": "48",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 14 + 19 + 15 = 48 cm.",
+        "hint": ""
     },
     {
         "id": "Q_104",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 23cm, 21cm, 22cm.",
-        "answer": "66",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 26cm, 14cm, 16cm.",
+        "answer": "56",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 26 + 14 + 16 = 56 cm.",
+        "hint": ""
     },
     {
         "id": "Q_105",
         "type": "Hình học (Chu vi)",
-        "question": "Tính chu vi hình tam giác có 3 cạnh lần lượt là 28cm, 12cm, 17cm.",
-        "answer": "57",
-        "level": "Mức 1"
+        "question": "Chu vi hình tam giác có 3 cạnh là 15cm, 25cm, 30cm.",
+        "answer": "70",
+        "level": "Mức 1",
+        "explain": "Chu vi tam giác là tổng 3 cạnh: 15 + 25 + 30 = 70 cm.",
+        "hint": ""
     },
     {
         "id": "Q_106",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 12cm, chiều rộng 7cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "38",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 14cm, chiều rộng 6cm. Tính chu vi.",
+        "answer": "40",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (14 + 6) x 2 = 40 cm.",
+        "hint": ""
     },
     {
         "id": "Q_107",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 15cm, chiều rộng 7cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "44",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 13cm, chiều rộng 7cm. Tính chu vi.",
+        "answer": "40",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (13 + 7) x 2 = 40 cm.",
+        "hint": ""
     },
     {
         "id": "Q_108",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 13cm, chiều rộng 8cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "42",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 17cm, chiều rộng 5cm. Tính chu vi.",
+        "answer": "44",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (17 + 5) x 2 = 44 cm.",
+        "hint": ""
     },
     {
         "id": "Q_109",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 11cm, chiều rộng 6cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "34",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 17cm, chiều rộng 9cm. Tính chu vi.",
+        "answer": "52",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (17 + 9) x 2 = 52 cm.",
+        "hint": ""
     },
     {
         "id": "Q_110",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 20cm, chiều rộng 5cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "50",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 18cm, chiều rộng 8cm. Tính chu vi.",
+        "answer": "52",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (18 + 8) x 2 = 52 cm.",
+        "hint": ""
     },
     {
         "id": "Q_111",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 15cm, chiều rộng 8cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "46",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 16cm, chiều rộng 5cm. Tính chu vi.",
+        "answer": "42",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (16 + 5) x 2 = 42 cm.",
+        "hint": ""
     },
     {
         "id": "Q_112",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 17cm, chiều rộng 6cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "46",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 18cm, chiều rộng 6cm. Tính chu vi.",
+        "answer": "48",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (18 + 6) x 2 = 48 cm.",
+        "hint": ""
     },
     {
         "id": "Q_113",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 11cm, chiều rộng 5cm. Tính chu vi hình chữ nhật đó.",
+        "question": "Hình chữ nhật có chiều dài 10cm, chiều rộng 6cm. Tính chu vi.",
         "answer": "32",
-        "level": "Mức 2"
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (10 + 6) x 2 = 32 cm.",
+        "hint": ""
     },
     {
         "id": "Q_114",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 14cm, chiều rộng 5cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "38",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 10cm, chiều rộng 6cm. Tính chu vi.",
+        "answer": "32",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (10 + 6) x 2 = 32 cm.",
+        "hint": ""
     },
     {
         "id": "Q_115",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình chữ nhật có chiều dài 12cm, chiều rộng 5cm. Tính chu vi hình chữ nhật đó.",
-        "answer": "34",
-        "level": "Mức 2"
+        "question": "Hình chữ nhật có chiều dài 12cm, chiều rộng 8cm. Tính chu vi.",
+        "answer": "40",
+        "level": "Mức 2",
+        "explain": "Chu vi = (Dài + Rộng) x 2. Tức là: (12 + 8) x 2 = 40 cm.",
+        "hint": ""
     },
     {
         "id": "Q_116",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình vuông có chu vi là 72cm. Hỏi một cạnh của hình vuông dài bao nhiêu cm?",
-        "answer": "18",
-        "level": "Mức 3"
+        "question": "Hình vuông có chu vi là 44cm. Một cạnh dài bao nhiêu cm?",
+        "answer": "11",
+        "level": "Mức 3",
+        "explain": "Hình vuông có 4 cạnh bằng nhau, nên 1 cạnh = Chu vi : 4 = 44 : 4 = 11 cm.",
+        "hint": "Chu vi hình vuông bằng một cạnh nhân với 4. Muốn tìm một cạnh, ta làm phép toán ngược lại nhé!"
     },
     {
         "id": "Q_117",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình vuông có chu vi là 48cm. Hỏi một cạnh của hình vuông dài bao nhiêu cm?",
-        "answer": "12",
-        "level": "Mức 3"
+        "question": "Hình vuông có chu vi là 52cm. Một cạnh dài bao nhiêu cm?",
+        "answer": "13",
+        "level": "Mức 3",
+        "explain": "Hình vuông có 4 cạnh bằng nhau, nên 1 cạnh = Chu vi : 4 = 52 : 4 = 13 cm.",
+        "hint": "Chu vi hình vuông bằng một cạnh nhân với 4. Muốn tìm một cạnh, ta làm phép toán ngược lại nhé!"
     },
     {
         "id": "Q_118",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình vuông có chu vi là 80cm. Hỏi một cạnh của hình vuông dài bao nhiêu cm?",
-        "answer": "20",
-        "level": "Mức 3"
+        "question": "Hình vuông có chu vi là 48cm. Một cạnh dài bao nhiêu cm?",
+        "answer": "12",
+        "level": "Mức 3",
+        "explain": "Hình vuông có 4 cạnh bằng nhau, nên 1 cạnh = Chu vi : 4 = 48 : 4 = 12 cm.",
+        "hint": "Chu vi hình vuông bằng một cạnh nhân với 4. Muốn tìm một cạnh, ta làm phép toán ngược lại nhé!"
     },
     {
         "id": "Q_119",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình vuông có chu vi là 48cm. Hỏi một cạnh của hình vuông dài bao nhiêu cm?",
-        "answer": "12",
-        "level": "Mức 3"
+        "question": "Hình vuông có chu vi là 52cm. Một cạnh dài bao nhiêu cm?",
+        "answer": "13",
+        "level": "Mức 3",
+        "explain": "Hình vuông có 4 cạnh bằng nhau, nên 1 cạnh = Chu vi : 4 = 52 : 4 = 13 cm.",
+        "hint": "Chu vi hình vuông bằng một cạnh nhân với 4. Muốn tìm một cạnh, ta làm phép toán ngược lại nhé!"
     },
     {
         "id": "Q_120",
         "type": "Hình học (Chu vi)",
-        "question": "Một hình vuông có chu vi là 72cm. Hỏi một cạnh của hình vuông dài bao nhiêu cm?",
-        "answer": "18",
-        "level": "Mức 3"
+        "question": "Hình vuông có chu vi là 44cm. Một cạnh dài bao nhiêu cm?",
+        "answer": "11",
+        "level": "Mức 3",
+        "explain": "Hình vuông có 4 cạnh bằng nhau, nên 1 cạnh = Chu vi : 4 = 44 : 4 = 11 cm.",
+        "hint": "Chu vi hình vuông bằng một cạnh nhân với 4. Muốn tìm một cạnh, ta làm phép toán ngược lại nhé!"
     },
     {
         "id": "Q_121",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 14 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 7 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 7 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_122",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_123",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_124",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 21 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_125",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 14 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 14 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_126",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 14 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 7 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 7 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_127",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 21 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_128",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 14 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 14 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_129",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 14 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_130",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_131",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 14 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 14 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_132",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 14 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_133",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 14 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 7 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 7 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_134",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 21 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_135",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hôm nay là Thứ Hai, hỏi 7 ngày nữa là Thứ mấy? (Ghi đáp án không dấu: Thu Hai, Thu Ba...)",
+        "question": "Hôm nay Thứ Hai, 21 ngày nữa là Thứ mấy? (Ghi: Thu Hai, Thu Ba...)",
         "answer": "Thu Hai",
-        "level": "Mức 1"
+        "level": "Mức 1",
+        "explain": "Cứ sau 7 ngày (1 tuần) thì thứ sẽ lặp lại y hệt. 21 ngày là tròn tuần, nên vẫn là Thứ Hai.",
+        "hint": ""
     },
     {
         "id": "Q_136",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 11 tuổi, em 4 tuổi. Hỏi 4 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "question": "Hiện anh 10 tuổi, em 7 tuổi. 3 năm nữa tổng số tuổi là bao nhiêu?",
         "answer": "23",
-        "level": "Mức 2"
+        "level": "Mức 2",
+        "explain": "3 năm nữa, anh tăng 3 tuổi, em cũng tăng 3 tuổi. Tổng = 13 + 10 = 23.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_137",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 10 tuổi, em 6 tuổi. Hỏi 3 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "22",
-        "level": "Mức 2"
+        "question": "Hiện anh 9 tuổi, em 5 tuổi. 5 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "24",
+        "level": "Mức 2",
+        "explain": "5 năm nữa, anh tăng 5 tuổi, em cũng tăng 5 tuổi. Tổng = 14 + 10 = 24.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_138",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 10 tuổi, em 6 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "26",
-        "level": "Mức 2"
+        "question": "Hiện anh 8 tuổi, em 6 tuổi. 4 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "22",
+        "level": "Mức 2",
+        "explain": "4 năm nữa, anh tăng 4 tuổi, em cũng tăng 4 tuổi. Tổng = 12 + 10 = 22.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_139",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 9 tuổi, em 7 tuổi. Hỏi 4 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "24",
-        "level": "Mức 2"
+        "question": "Hiện anh 9 tuổi, em 6 tuổi. 4 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "23",
+        "level": "Mức 2",
+        "explain": "4 năm nữa, anh tăng 4 tuổi, em cũng tăng 4 tuổi. Tổng = 13 + 10 = 23.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_140",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 11 tuổi, em 4 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
+        "question": "Hiện anh 12 tuổi, em 5 tuổi. 4 năm nữa tổng số tuổi là bao nhiêu?",
         "answer": "25",
-        "level": "Mức 2"
+        "level": "Mức 2",
+        "explain": "4 năm nữa, anh tăng 4 tuổi, em cũng tăng 4 tuổi. Tổng = 16 + 9 = 25.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_141",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 12 tuổi, em 4 tuổi. Hỏi 4 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "24",
-        "level": "Mức 2"
+        "question": "Hiện anh 10 tuổi, em 6 tuổi. 5 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "26",
+        "level": "Mức 2",
+        "explain": "5 năm nữa, anh tăng 5 tuổi, em cũng tăng 5 tuổi. Tổng = 15 + 11 = 26.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_142",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 11 tuổi, em 5 tuổi. Hỏi 4 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "24",
-        "level": "Mức 2"
+        "question": "Hiện anh 11 tuổi, em 7 tuổi. 5 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "28",
+        "level": "Mức 2",
+        "explain": "5 năm nữa, anh tăng 5 tuổi, em cũng tăng 5 tuổi. Tổng = 16 + 12 = 28.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_143",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 8 tuổi, em 4 tuổi. Hỏi 4 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "20",
-        "level": "Mức 2"
+        "question": "Hiện anh 9 tuổi, em 6 tuổi. 3 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "21",
+        "level": "Mức 2",
+        "explain": "3 năm nữa, anh tăng 3 tuổi, em cũng tăng 3 tuổi. Tổng = 12 + 9 = 21.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_144",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 12 tuổi, em 4 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "26",
-        "level": "Mức 2"
+        "question": "Hiện anh 12 tuổi, em 6 tuổi. 3 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "24",
+        "level": "Mức 2",
+        "explain": "3 năm nữa, anh tăng 3 tuổi, em cũng tăng 3 tuổi. Tổng = 15 + 9 = 24.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_145",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Hiện nay anh 12 tuổi, em 7 tuổi. Hỏi 5 năm nữa tổng số tuổi của hai anh em là bao nhiêu?",
-        "answer": "29",
-        "level": "Mức 2"
+        "question": "Hiện anh 12 tuổi, em 6 tuổi. 5 năm nữa tổng số tuổi là bao nhiêu?",
+        "answer": "28",
+        "level": "Mức 2",
+        "explain": "5 năm nữa, anh tăng 5 tuổi, em cũng tăng 5 tuổi. Tổng = 17 + 11 = 28.",
+        "hint": "Chú ý: Mỗi năm qua đi, ai cũng tăng thêm 1 tuổi nhé!"
     },
     {
         "id": "Q_146",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Đàn gà nhà bác Năm có 40 con. Bác bán đi một nửa, rồi lại mua thêm 5 con. Hỏi hiện tại bác có bao nhiêu con gà?",
-        "answer": "25",
-        "level": "Mức 3"
+        "question": "Đàn gà có 50 con. Bán một nửa, mua thêm 3 con. Hiện có bao nhiêu con?",
+        "answer": "28",
+        "level": "Mức 3",
+        "explain": "Bán 1 nửa còn: 50 : 2 = 25. Mua thêm 3 con: 25 + 3 = 28.",
+        "hint": "Bước 1: Tính số gà còn lại sau khi bán một nửa. Bước 2: Tính số gà sau khi mua thêm."
     },
     {
         "id": "Q_147",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Đàn gà nhà bác Năm có 50 con. Bác bán đi một nửa, rồi lại mua thêm 5 con. Hỏi hiện tại bác có bao nhiêu con gà?",
-        "answer": "30",
-        "level": "Mức 3"
+        "question": "Đàn gà có 30 con. Bán một nửa, mua thêm 4 con. Hiện có bao nhiêu con?",
+        "answer": "19",
+        "level": "Mức 3",
+        "explain": "Bán 1 nửa còn: 30 : 2 = 15. Mua thêm 4 con: 15 + 4 = 19.",
+        "hint": "Bước 1: Tính số gà còn lại sau khi bán một nửa. Bước 2: Tính số gà sau khi mua thêm."
     },
     {
         "id": "Q_148",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Đàn gà nhà bác Năm có 30 con. Bác bán đi một nửa, rồi lại mua thêm 4 con. Hỏi hiện tại bác có bao nhiêu con gà?",
-        "answer": "19",
-        "level": "Mức 3"
+        "question": "Đàn gà có 50 con. Bán một nửa, mua thêm 3 con. Hiện có bao nhiêu con?",
+        "answer": "28",
+        "level": "Mức 3",
+        "explain": "Bán 1 nửa còn: 50 : 2 = 25. Mua thêm 3 con: 25 + 3 = 28.",
+        "hint": "Bước 1: Tính số gà còn lại sau khi bán một nửa. Bước 2: Tính số gà sau khi mua thêm."
     },
     {
         "id": "Q_149",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Đàn gà nhà bác Năm có 50 con. Bác bán đi một nửa, rồi lại mua thêm 3 con. Hỏi hiện tại bác có bao nhiêu con gà?",
-        "answer": "28",
-        "level": "Mức 3"
+        "question": "Đàn gà có 30 con. Bán một nửa, mua thêm 5 con. Hiện có bao nhiêu con?",
+        "answer": "20",
+        "level": "Mức 3",
+        "explain": "Bán 1 nửa còn: 30 : 2 = 15. Mua thêm 5 con: 15 + 5 = 20.",
+        "hint": "Bước 1: Tính số gà còn lại sau khi bán một nửa. Bước 2: Tính số gà sau khi mua thêm."
     },
     {
         "id": "Q_150",
         "type": "Toán Tư Duy (Nền tảng NTT)",
-        "question": "Đàn gà nhà bác Năm có 50 con. Bác bán đi một nửa, rồi lại mua thêm 3 con. Hỏi hiện tại bác có bao nhiêu con gà?",
-        "answer": "28",
-        "level": "Mức 3"
+        "question": "Đàn gà có 40 con. Bán một nửa, mua thêm 5 con. Hiện có bao nhiêu con?",
+        "answer": "25",
+        "level": "Mức 3",
+        "explain": "Bán 1 nửa còn: 40 : 2 = 20. Mua thêm 5 con: 20 + 5 = 25.",
+        "hint": "Bước 1: Tính số gà còn lại sau khi bán một nửa. Bước 2: Tính số gà sau khi mua thêm."
     }
 ]
